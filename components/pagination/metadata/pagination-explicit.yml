@@ -1,6 +1,5 @@
 id: pagination-explicit
 name: Pagination - Explicit
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/text-field/#Review-label-less-designs-with-Inclusive-Design-team
 examples:
   - id: pagination-explicit
     name: Standard
