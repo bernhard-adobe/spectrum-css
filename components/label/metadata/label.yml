@@ -1,4 +1,5 @@
 name: Label
+SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/tag/#Label
 examples:
   - id: label-colored
     name: Standard
